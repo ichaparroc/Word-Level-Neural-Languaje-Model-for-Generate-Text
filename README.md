@@ -6,8 +6,11 @@ Use of data-base: Only the observations (not emoticons).
 
 ## Description of files:
 *spanish_emojis.csv* : Full data-base of observations.
+
 *spanish_emojis5.csv* : Only the first 1000 observations of the original database.
+
 *model_5.h5*: RNN/LSTM model trained with panish_emojis5.csv.
+
 *tokenizer_5.pkl*: Tokenizer for panish_emojis5.csv.
 
 ## Results:
