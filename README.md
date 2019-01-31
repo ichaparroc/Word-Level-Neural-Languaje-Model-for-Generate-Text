@@ -13,9 +13,13 @@ Use of data-base: Only the observations (not emoticons).
 
 *spanish_emojis3.csv* : Only the first 10000 observations of the original database.
 
-*model_**X**.h5*: RNN/LSTM model trained with panish_emojis**X**.csv.
+*model_**X**.h5*: RNN/LSTM model trained with panish_emojis**X**.csv at **50**% accuracy.
 
-*tokenizer_**X**.pkl*: Tokenizer for panish_emojis**X**.csv.
+*tokenizer_**X**.pkl*: Tokenizer for panish_emojis**X**.csv at **50**% accuracy.
+
+*model_**X**_**YY**.h5*: RNN/LSTM model trained with panish_emojis**X**.csv at **YY**% accuracy.
+
+*tokenizer_**X**_**YY**.pkl*: Tokenizer for panish_emojis**X**.csv at **YY**% accuracy.
 
 ## Results:
 en la calle ...
